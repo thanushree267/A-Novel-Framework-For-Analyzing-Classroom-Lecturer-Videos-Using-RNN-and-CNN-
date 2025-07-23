@@ -1,4 +1,3 @@
-````markdown
 # Classroom Facial Expression Recognition 📚🎭
 
 This repository presents a deep learning-based system to monitor and analyze teachers' facial expressions in real-time classroom environments using Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN).
